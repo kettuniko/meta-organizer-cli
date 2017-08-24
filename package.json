@@ -1,0 +1,14 @@
+{
+  "name": "meta-organizer",
+  "version": "1.0.0",
+  "description": "Tool for organizing images to subdirectories based on exif-data",
+  "main": "organize.js",
+  "repository": "git@github.com:kettuniko/meta-organizer-cli.git",
+  "author": "Niko Kettunen",
+  "license": "MIT",
+  "dependencies": {
+    "exif": "^0.6.0",
+    "mv": "^2.1.1",
+    "ramda": "^0.24.1"
+  }
+}
